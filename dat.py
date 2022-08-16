@@ -16,7 +16,7 @@ command = "clustalo -i {} -o {}result_alignment.aln --distmat-out={}distance_mat
     fasta_seqs,
     path_output,
     path_output,
-    cores
+    coress
 )
 
 os.system(command)
