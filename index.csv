@@ -1,0 +1,59 @@
+,,,,
+,Dataset.csv,N° Secuencias,Describe,Link
+,./Clusters_in_csv/3-dehydroshikimase_dehydratase.csv,88,Cluster: 3-dehydroshikimate dehydratase,https://www.uniprot.org/uniref/UniRef90_A0A022IPX7
+,./Clusters_in_csv/acetyltransferase.csv,438,Cluster: Acetyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A066QF03
+,./Clusters_in_csv/aconitate_hydratase.csv,444,Cluster: Aconitate hydratase,https://www.uniprot.org/uniref/UniRef90_A0A024HMW3
+,./Clusters_in_csv/Adenine_DNA_glycosylase.csv,81,Cluster: Adenine DNA glycosylase,https://www.uniprot.org/uniref/UniRef90_A0A009KNS3
+,./Clusters_in_csv/antitoxin_reib.csv,94,Cluster: Antitoxin RelB,https://www.uniprot.org/uniref/UniRef90_A0A009EQ13
+,./Clusters_in_csv/aspartate_aminotransferase.csv,75,Cluster: Aspartate aminotransferase,https://www.uniprot.org/uniref/UniRef90_A0A022LHH5
+,./Clusters_in_csv/aspartate_racemase_family.csv,91,Cluster: Aspartate racemase family protein,https://www.uniprot.org/uniref/UniRef90_A0A010K6F4
+,./Clusters_in_csv/beta_glucosidase.csv,78,Cluster: Beta-glucosidase,https://www.uniprot.org/uniref/UniRef90_A0A022LDW4
+,./Clusters_in_csv/biopolymer_trans_exdb.csv,79,Cluster: Biopolymer transporter ExbD,https://www.uniprot.org/uniref/UniRef90_A0A011SYE7
+,./Clusters_in_csv/biotin_carboxylase.csv,379,Cluster: Biotin carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A011TEC4
+,./Clusters_in_csv/cell_surface_protein.csv,204,Cluster: Cell surface protein,https://www.uniprot.org/uniref/UniRef90_A0A023PCM9
+,./Clusters_in_csv/cell_wall_endopeptidase.csv,604,Cluster: Cell wall endopeptidase,https://www.uniprot.org/uniref/UniRef90_A0A024LBX7
+,./Clusters_in_csv/chemotaxis_protein.csv,948,Cluster: Chemotaxis protein,https://www.uniprot.org/uniref/UniRef50_A0A010RYL1
+,./Clusters_in_csv/chemotaxis_sensory_transducer.csv,331,Cluster: Chemotaxis sensory transducer,https://www.uniprot.org/uniref/UniRef90_A0A024E8X9
+,./Clusters_in_csv/choline_sulfatase.csv,221,Cluster: Choline-sulfatase,https://www.uniprot.org/uniref/UniRef90_A0A023XU77
+,./Clusters_in_csv/corrinoid_adenosyltransferase.csv,166,Cluster: Corrinoid adenosyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A023L7Z9
+,./Clusters_in_csv/diaminopimelate_decarboxylase.csv,556,Cluster: Diaminopimelate decarboxylase,https://www.uniprot.org/uniref/UniRef90_A0A064C325
+,./Clusters_in_csv/dihydrofolate_reductase.csv,196,Cluster: Dihydrofolate reductase,https://www.uniprot.org/uniref/UniRef90_A0A010SLA4
+,./Clusters_in_csv/endonuclease.csv,197,Cluster: Endonuclease,https://www.uniprot.org/uniref/UniRef90_A0A010NXJ4
+,./Clusters_in_csv/esterase_YqiA.csv,937,Cluster: Esterase YqiA,https://www.uniprot.org/uniref/UniRef50_A0A031GZ20
+,./Clusters_in_csv/flagellar_protein_flil.csv,100,Cluster: Flagellar protein FliL,https://www.uniprot.org/uniref/UniRef90_A0A022NZV4
+,./Clusters_in_csv/flavohemoprotein.csv,400,Cluster: Flavohemoprotein,https://www.uniprot.org/uniref/UniRef90_A0A060VJ67
+,./Clusters_in_csv/general_stress_protein_A.csv,521,Cluster: General stress protein A,https://www.uniprot.org/uniref/UniRef90_A0A037Y4K5
+,./Clusters_in_csv/heatshock_prot_hsp20.csv,75,Cluster: Heat-shock protein Hsp20,https://www.uniprot.org/uniref/UniRef90_A0A011UMR0
+,./Clusters_in_csv/helicase.csv,128,Cluster: Helicase,https://www.uniprot.org/uniref/UniRef90_A0A022LF30
+,./Clusters_in_csv/histidine_kinase.csv,903,Cluster: Histidine kinase,https://www.uniprot.org/uniref/UniRef50_A0A024CA35
+,./Clusters_in_csv/integrase_core_domain_protein.csv,507,Cluster: Integrase core domain protein,https://www.uniprot.org/uniref/UniRef90_A0A062MY26
+,./Clusters_in_csv/metallophophatase.csv,86,Cluster: Metallophosphatase,https://www.uniprot.org/uniref/UniRef90_A0A022LLI0
+,./Clusters_in_csv/mfs_transporter.csv,168,Cluster: MFS transporter,https://www.uniprot.org/uniref/UniRef90_A0A010T178
+,./Clusters_in_csv/minor_tail_protein_G.csv,1098,Cluster: Minor tail protein G,https://www.uniprot.org/uniref/UniRef50_A0A023KLD7
+,./Clusters_in_csv/mutator_family_transposase.csv,389,Cluster: Mutator family transposase,https://www.uniprot.org/uniref/UniRef90_A0A014FKT4
+,./Clusters_in_csv/mycotione_reductase.csv,769,Cluster: Mycothione reductase,https://www.uniprot.org/uniref/UniRef50_A0A031HXE5
+,./Clusters_in_csv/outer_membrane_protein.csv,350,Cluster: Outer membrane protein,https://www.uniprot.org/uniref/UniRef90_A0A024E8H6
+,./Clusters_in_csv/phosphotriesterase.csv,371,Cluster: Phosphotriesterase,https://www.uniprot.org/uniref/UniRef90_A0A024L284
+,./Clusters_in_csv/pressure_regulated_protein.csv,717,Cluster: Pressure-regulated protein,https://www.uniprot.org/uniref/UniRef50_A0A010TCE1
+,./Clusters_in_csv/protein_CreA.csv,816,Cluster: Protein CreA,https://www.uniprot.org/uniref/UniRef50_A0A024HNC9
+,./Clusters_in_csv/protein_pb1_f2.csv,159,Cluster: Protein PB1-F2,https://www.uniprot.org/uniref/UniRef90_A0A023PTM3
+,./Clusters_in_csv/putative_mobilization_protein.csv,789,Cluster: Putative mobilization protein,https://www.uniprot.org/uniref/UniRef50_A0A016BQD2
+,./Clusters_in_csv/putative_sperm_activating_peptide.csv,164,Cluster: Putative sperm-activating peptide,https://www.uniprot.org/uniref/UniRef90_A0A013SC14
+,./Clusters_in_csv/pyruvate_carboxylase.csv,258,Cluster: Pyruvate carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A023XQQ3
+,./Clusters_in_csv/quinolinase_synthase.csv,196,Cluster: Quinolinate synthase,https://www.uniprot.org/uniref/UniRef90_A0A009FP77
+,./Clusters_in_csv/ribokinase.csv,473,Cluster: Ribokinase,https://www.uniprot.org/uniref/UniRef90_A0A067HQX2
+,./Clusters_in_csv/ribonucleoside_diphosphate_reductase.csv,331,Cluster: Ribonucleoside-diphosphate reductase,https://www.uniprot.org/uniref/UniRef90_A0A024HF91
+,./Clusters_in_csv/sensor_protein_QseC.csv,709,Cluster: Sensor protein QseC,https://www.uniprot.org/uniref/UniRef50_A0A069AWE5
+,./Clusters_in_csv/tape_measure_protein.csv,104,Cluster: Tape measure protein,https://www.uniprot.org/uniref/UniRef90_A0A023W606
+,./Clusters_in_csv/thiazole_synthase.csv,98,Cluster: Thiazole synthase,https://www.uniprot.org/uniref/UniRef90_A0A014LH77
+,./Clusters_in_csv/transketolase.csv,537,Cluster: Transketolase,https://www.uniprot.org/uniref/UniRef90_A0A060VG22
+,./Clusters_in_csv/xylulose_kinase.csv,1124,Cluster: Xylulose kinase,https://www.uniprot.org/uniref/UniRef50_A0A024L172
+,./Clusters_in_csv/adenylosuccinate_lyase.csv,499,Cluster: Adenylosuccinate lyase,https://www.uniprot.org/uniref/UniRef90_A0A011VKV2
+,./Clusters_in_csv/absortion.csv,81,Absortion,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/absorption.txt
+,./Clusters_in_csv/enantioselectivity.csv,152,Enantioselectivity,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/enantioselectivity.txt
+,./Clusters_in_csv/localization.txt,254,Localization,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/localization.txt
+,./Clusters_in_csv/small_uniprot.csv,1000,Small_uniprot,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/small_uniprot.txt
+,./Clusters_in_csv/T50.csv,261,T50,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/T50.txt
+,./Clusters_in_csv/,,,
+,./Clusters_in_csv/,,,
+,./Clusters_in_csv/,,,
