@@ -3,7 +3,7 @@ import pandas as pd
 
 meta = []
 sequence = []
-seq = ("./Seqs/700_1200/xylulose_kinase/xylulose_kinase.fasta")
+seq = ("./Seqs/PDB/enzyme_all_beta_proteins/enzyme_all_beta_proteins2.fasta")
 
 for seq_record in SeqIO.parse(seq,"fasta"):
     meta.append(str(seq_record.id))
@@ -12,4 +12,4 @@ for seq_record in SeqIO.parse(seq,"fasta"):
 df = pd.DataFrame(data={"Meta": meta, "SequenceID": sequence})
 print(df)
 
-df.to_csv("./Clusters_in_csv/xylulose_kinase.csv")
+df.to_csv("./Clusters_in_csv/enzyme_all_beta_proteins.csv")
