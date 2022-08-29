@@ -80,3 +80,5 @@ for element in partition:
 df_groups = pd.DataFrame(matrix_group, columns=['id_example', 'group'])
 print(df_groups)
 print(modularity_value)'''
+
+clustalo -i ./ -o ./result_alignment.aln --distmat-out=./distance_matrix.dist --full --force --threads 2
