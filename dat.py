@@ -4,6 +4,10 @@ import pandas as pd
 import numpy as np
 import networkx as nx
 import community as community_louvain
+from warnings import simplefilter
+
+simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
+
 
 '''
 #inputs
@@ -22,7 +26,7 @@ command = "clustalo -i {} -o {}result_alignment.aln --distmat-out={}distance_mat
 os.system(command)
 '''
 #2. Parsear matriz de distancia
-doc_open = open("./Seqs/100_200/tape_measure_protein/tape_measure_distance_matrix.dist", 'r')
+doc_open = open("./Seqs/700_1200/xylulose_kinase/xylulose_kinase_distance_matrix.dist", 'r')
 number_seq = doc_open.readline()
 number_seq = int(number_seq.replace("\n", ""))
 print(number_seq)
@@ -50,7 +54,7 @@ doc_open.close()
 df_data.index = index_values
 
 print(df_data)
-df_data.to_csv("./F_results/tape_measure_protein.csv")
+df_data.to_csv("./F_results/xylulose_kinase.csv")
 
 
 '''
@@ -79,6 +83,7 @@ for element in partition:
 
 df_groups = pd.DataFrame(matrix_group, columns=['id_example', 'group'])
 print(df_groups)
-print(modularity_value)'''
+print(modularity_value)
 
-clustalo -i ./ -o ./result_alignment.aln --distmat-out=./distance_matrix.dist --full --force --threads 2
+clustalo -i ./ -o ./result_alignment.aln --distmat-out=./distance_matrix.dist 
+--full --force --threads 2'''
