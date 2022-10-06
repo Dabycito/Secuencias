@@ -1,59 +1,58 @@
-,,,,
-,Dataset.csv,NÂ° Secuencias,Describe,Link
-,./Clusters_in_csv/3-dehydroshikimase_dehydratase.csv,88,Cluster: 3-dehydroshikimate dehydratase,https://www.uniprot.org/uniref/UniRef90_A0A022IPX7
-,./Clusters_in_csv/acetyltransferase.csv,438,Cluster: Acetyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A066QF03
-,./Clusters_in_csv/aconitate_hydratase.csv,444,Cluster: Aconitate hydratase,https://www.uniprot.org/uniref/UniRef90_A0A024HMW3
-,./Clusters_in_csv/Adenine_DNA_glycosylase.csv,81,Cluster: Adenine DNA glycosylase,https://www.uniprot.org/uniref/UniRef90_A0A009KNS3
-,./Clusters_in_csv/antitoxin_reib.csv,94,Cluster: Antitoxin RelB,https://www.uniprot.org/uniref/UniRef90_A0A009EQ13
-,./Clusters_in_csv/aspartate_aminotransferase.csv,75,Cluster: Aspartate aminotransferase,https://www.uniprot.org/uniref/UniRef90_A0A022LHH5
-,./Clusters_in_csv/aspartate_racemase_family.csv,91,Cluster: Aspartate racemase family protein,https://www.uniprot.org/uniref/UniRef90_A0A010K6F4
-,./Clusters_in_csv/beta_glucosidase.csv,78,Cluster: Beta-glucosidase,https://www.uniprot.org/uniref/UniRef90_A0A022LDW4
-,./Clusters_in_csv/biopolymer_trans_exdb.csv,79,Cluster: Biopolymer transporter ExbD,https://www.uniprot.org/uniref/UniRef90_A0A011SYE7
-,./Clusters_in_csv/biotin_carboxylase.csv,379,Cluster: Biotin carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A011TEC4
-,./Clusters_in_csv/cell_surface_protein.csv,204,Cluster: Cell surface protein,https://www.uniprot.org/uniref/UniRef90_A0A023PCM9
-,./Clusters_in_csv/cell_wall_endopeptidase.csv,604,Cluster: Cell wall endopeptidase,https://www.uniprot.org/uniref/UniRef90_A0A024LBX7
-,./Clusters_in_csv/chemotaxis_protein.csv,948,Cluster: Chemotaxis protein,https://www.uniprot.org/uniref/UniRef50_A0A010RYL1
-,./Clusters_in_csv/chemotaxis_sensory_transducer.csv,331,Cluster: Chemotaxis sensory transducer,https://www.uniprot.org/uniref/UniRef90_A0A024E8X9
-,./Clusters_in_csv/choline_sulfatase.csv,221,Cluster: Choline-sulfatase,https://www.uniprot.org/uniref/UniRef90_A0A023XU77
-,./Clusters_in_csv/corrinoid_adenosyltransferase.csv,166,Cluster: Corrinoid adenosyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A023L7Z9
-,./Clusters_in_csv/diaminopimelate_decarboxylase.csv,556,Cluster: Diaminopimelate decarboxylase,https://www.uniprot.org/uniref/UniRef90_A0A064C325
-,./Clusters_in_csv/dihydrofolate_reductase.csv,196,Cluster: Dihydrofolate reductase,https://www.uniprot.org/uniref/UniRef90_A0A010SLA4
-,./Clusters_in_csv/endonuclease.csv,197,Cluster: Endonuclease,https://www.uniprot.org/uniref/UniRef90_A0A010NXJ4
-,./Clusters_in_csv/esterase_YqiA.csv,937,Cluster: Esterase YqiA,https://www.uniprot.org/uniref/UniRef50_A0A031GZ20
-,./Clusters_in_csv/flagellar_protein_flil.csv,100,Cluster: Flagellar protein FliL,https://www.uniprot.org/uniref/UniRef90_A0A022NZV4
-,./Clusters_in_csv/flavohemoprotein.csv,400,Cluster: Flavohemoprotein,https://www.uniprot.org/uniref/UniRef90_A0A060VJ67
-,./Clusters_in_csv/general_stress_protein_A.csv,521,Cluster: General stress protein A,https://www.uniprot.org/uniref/UniRef90_A0A037Y4K5
-,./Clusters_in_csv/heatshock_prot_hsp20.csv,75,Cluster: Heat-shock protein Hsp20,https://www.uniprot.org/uniref/UniRef90_A0A011UMR0
-,./Clusters_in_csv/helicase.csv,128,Cluster: Helicase,https://www.uniprot.org/uniref/UniRef90_A0A022LF30
-,./Clusters_in_csv/histidine_kinase.csv,903,Cluster: Histidine kinase,https://www.uniprot.org/uniref/UniRef50_A0A024CA35
-,./Clusters_in_csv/integrase_core_domain_protein.csv,507,Cluster: Integrase core domain protein,https://www.uniprot.org/uniref/UniRef90_A0A062MY26
-,./Clusters_in_csv/metallophophatase.csv,86,Cluster: Metallophosphatase,https://www.uniprot.org/uniref/UniRef90_A0A022LLI0
-,./Clusters_in_csv/mfs_transporter.csv,168,Cluster: MFS transporter,https://www.uniprot.org/uniref/UniRef90_A0A010T178
-,./Clusters_in_csv/minor_tail_protein_G.csv,1098,Cluster: Minor tail protein G,https://www.uniprot.org/uniref/UniRef50_A0A023KLD7
-,./Clusters_in_csv/mutator_family_transposase.csv,389,Cluster: Mutator family transposase,https://www.uniprot.org/uniref/UniRef90_A0A014FKT4
-,./Clusters_in_csv/mycotione_reductase.csv,769,Cluster: Mycothione reductase,https://www.uniprot.org/uniref/UniRef50_A0A031HXE5
-,./Clusters_in_csv/outer_membrane_protein.csv,350,Cluster: Outer membrane protein,https://www.uniprot.org/uniref/UniRef90_A0A024E8H6
-,./Clusters_in_csv/phosphotriesterase.csv,371,Cluster: Phosphotriesterase,https://www.uniprot.org/uniref/UniRef90_A0A024L284
-,./Clusters_in_csv/pressure_regulated_protein.csv,717,Cluster: Pressure-regulated protein,https://www.uniprot.org/uniref/UniRef50_A0A010TCE1
-,./Clusters_in_csv/protein_CreA.csv,816,Cluster: Protein CreA,https://www.uniprot.org/uniref/UniRef50_A0A024HNC9
-,./Clusters_in_csv/protein_pb1_f2.csv,159,Cluster: Protein PB1-F2,https://www.uniprot.org/uniref/UniRef90_A0A023PTM3
-,./Clusters_in_csv/putative_mobilization_protein.csv,789,Cluster: Putative mobilization protein,https://www.uniprot.org/uniref/UniRef50_A0A016BQD2
-,./Clusters_in_csv/putative_sperm_activating_peptide.csv,164,Cluster: Putative sperm-activating peptide,https://www.uniprot.org/uniref/UniRef90_A0A013SC14
-,./Clusters_in_csv/pyruvate_carboxylase.csv,258,Cluster: Pyruvate carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A023XQQ3
-,./Clusters_in_csv/quinolinase_synthase.csv,196,Cluster: Quinolinate synthase,https://www.uniprot.org/uniref/UniRef90_A0A009FP77
-,./Clusters_in_csv/ribokinase.csv,473,Cluster: Ribokinase,https://www.uniprot.org/uniref/UniRef90_A0A067HQX2
-,./Clusters_in_csv/ribonucleoside_diphosphate_reductase.csv,331,Cluster: Ribonucleoside-diphosphate reductase,https://www.uniprot.org/uniref/UniRef90_A0A024HF91
-,./Clusters_in_csv/sensor_protein_QseC.csv,709,Cluster: Sensor protein QseC,https://www.uniprot.org/uniref/UniRef50_A0A069AWE5
-,./Clusters_in_csv/tape_measure_protein.csv,104,Cluster: Tape measure protein,https://www.uniprot.org/uniref/UniRef90_A0A023W606
-,./Clusters_in_csv/thiazole_synthase.csv,98,Cluster: Thiazole synthase,https://www.uniprot.org/uniref/UniRef90_A0A014LH77
-,./Clusters_in_csv/transketolase.csv,537,Cluster: Transketolase,https://www.uniprot.org/uniref/UniRef90_A0A060VG22
-,./Clusters_in_csv/xylulose_kinase.csv,1124,Cluster: Xylulose kinase,https://www.uniprot.org/uniref/UniRef50_A0A024L172
-,./Clusters_in_csv/adenylosuccinate_lyase.csv,499,Cluster: Adenylosuccinate lyase,https://www.uniprot.org/uniref/UniRef90_A0A011VKV2
-,./Clusters_in_csv/absortion.csv,81,Absortion,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/absorption.txt
-,./Clusters_in_csv/enantioselectivity.csv,152,Enantioselectivity,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/enantioselectivity.txt
-,./Clusters_in_csv/localization.txt,254,Localization,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/localization.txt
-,./Clusters_in_csv/small_uniprot.csv,1000,Small_uniprot,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/small_uniprot.txt
-,./Clusters_in_csv/T50.csv,261,T50,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/T50.txt
-,./Clusters_in_csv/,,,
-,./Clusters_in_csv/,,,
-,./Clusters_in_csv/,,,
+Dataset.csv,N° Secuencias,Describe,Link,Nombre Organismo,Taxonomic Lineage,Molecular Function
+./Clusters_in_csv/3-dehydroshikimase_dehydratase.csv,88,Cluster: 3-dehydroshikimate dehydratase,https://www.uniprot.org/uniref/UniRef90_A0A022IPX7,Acinetobacter junii,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Moraxellales > Moraxellaceae > Acinetobacter,n/a
+./Clusters_in_csv/acetyltransferase.csv,438,Cluster: Acetyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A066QF03,Escherichia Coli,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Enterobacterales > Enterobacteriaceae > Escherichia,Acyltransferase/Tranferase
+./Clusters_in_csv/aconitate_hydratase.csv,444,Cluster: Aconitate hydratase,https://www.uniprot.org/uniref/UniRef90_A0A024HMW3,Pseudomonas Stutzeri,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas stutzeri group > Pseudomonas stutzeri subgroup > Pseudomonas stutzeri,Lyase
+./Clusters_in_csv/Adenine_DNA_glycosylase.csv,81,Cluster: Adenine DNA glycosylase,https://www.uniprot.org/uniref/UniRef90_A0A009KNS3,Acinetobacter sp.2JN-4,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Moraxellales > Moraxellaceae > Acinetobacter > unclassified Acinetobacter,Glycosidae/Hydrolase
+./Clusters_in_csv/antitoxin_reib.csv,94,Cluster: Antitoxin RelB,https://www.uniprot.org/uniref/UniRef90_A0A009EQ13,Acinetobacter Iwoffii,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Moraxellales > Moraxellaceae > Acinetobacter,n/a
+./Clusters_in_csv/aspartate_aminotransferase.csv,75,Cluster: Aspartate aminotransferase,https://www.uniprot.org/uniref/UniRef90_A0A022LHH5,Curtobacterium sp. PhB191,cellular organisms > Bacteria (eubacteria) > Terrabacteria group > Actinobacteria > Actinomycetia (high G+C Gram-positive bacteria) > Micrococcales > Microbacteriaceae > Curtobacterium > unclassified Curtobacterium,Aminotransferase/Transferase
+./Clusters_in_csv/aspartate_racemase_family.csv,91,Cluster: Aspartate racemase family protein,https://www.uniprot.org/uniref/UniRef90_A0A010K6F4,Acinetobacter baumannii,,n/a
+./Clusters_in_csv/beta_glucosidase.csv,78,Cluster: Beta-glucosidase,https://www.uniprot.org/uniref/UniRef90_A0A022LDW4,curtobacterium flaccumfacients,,n/a
+./Clusters_in_csv/biopolymer_trans_exdb.csv,79,Cluster: Biopolymer transporter ExbD,https://www.uniprot.org/uniref/UniRef90_A0A011SYE7,Brucella pituitosa,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Alphaproteobacteria > Hyphomicrobiales > Brucellaceae > Brucella/Ochrobactrum group > Brucella,protein transport/transport
+./Clusters_in_csv/biotin_carboxylase.csv,379,Cluster: Biotin carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A011TEC4,Mesorhizobium sp,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Alphaproteobacteria > Hyphomicrobiales > Phyllobacteriaceae > Mesorhizobium > unclassified Mesorhizobium,Ligase
+./Clusters_in_csv/cell_surface_protein.csv,204,Cluster: Cell surface protein,https://www.uniprot.org/uniref/UniRef90_A0A023PCM9,Bacillus thuringiensis,,n/a
+./Clusters_in_csv/cell_wall_endopeptidase.csv,604,Cluster: Cell wall endopeptidase,https://www.uniprot.org/uniref/UniRef90_A0A024LBX7,Salmonella enterica subsp. enterica serovar,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Enterobacterales > Enterobacteriaceae > Salmonella > Salmonella enterica > Salmonella enterica I,Hydrolase
+./Clusters_in_csv/chemotaxis_protein.csv,948,Cluster: Chemotaxis protein,https://www.uniprot.org/uniref/UniRef50_A0A010RYL1,Pseudomonas kirkiae,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas,n/a
+./Clusters_in_csv/chemotaxis_sensory_transducer.csv,331,Cluster: Chemotaxis sensory transducer,https://www.uniprot.org/uniref/UniRef90_A0A024E8X9,Pseudomonas mandelii JR-1,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas fluorescens group (fluorescent pseudomonads) > Pseudomonas mandelii,Transducer
+./Clusters_in_csv/choline_sulfatase.csv,221,Cluster: Choline-sulfatase,https://www.uniprot.org/uniref/UniRef90_A0A023XU77,Bradyrhizobium genosp. B,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Alphaproteobacteria > Hyphomicrobiales > Bradyrhizobiaceae > Bradyrhizobium,n/a
+./Clusters_in_csv/corrinoid_adenosyltransferase.csv,166,Cluster: Corrinoid adenosyltransferase,https://www.uniprot.org/uniref/UniRef90_A0A023L7Z9,Escherichia Coli,,n/a
+./Clusters_in_csv/diaminopimelate_decarboxylase.csv,556,Cluster: Diaminopimelate decarboxylase,https://www.uniprot.org/uniref/UniRef90_A0A064C325,Streptococcus sp. CCUG 49591,cellular organisms > Bacteria (eubacteria) > Terrabacteria group > Firmicutes > Bacilli > Lactobacillales > Streptococcaceae > Streptococcus > unclassified Streptococcus,n/a
+./Clusters_in_csv/dihydrofolate_reductase.csv,196,Cluster: Dihydrofolate reductase,https://www.uniprot.org/uniref/UniRef90_A0A010SLA4,Pseudomonas sp. Z003-0.4C(8344-21),cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > unclassified Pseudomonas,Oxidoreductase
+./Clusters_in_csv/endonuclease.csv,197,Cluster: Endonuclease,https://www.uniprot.org/uniref/UniRef90_A0A010NXJ4,Criibacterium bergeronii,cellular organisms > Bacteria (eubacteria) > Terrabacteria group > Firmicutes > Clostridia > Eubacteriales > Peptostreptococcaceae > Criibacterium,Endonuclease/Hydrolase/Nuclease
+./Clusters_in_csv/esterase_YqiA.csv,937,Cluster: Esterase YqiA,https://www.uniprot.org/uniref/UniRef50_A0A031GZ20,Robbsia andropogonis,,n/a
+./Clusters_in_csv/flagellar_protein_flil.csv,100,Cluster: Flagellar protein FliL,https://www.uniprot.org/uniref/UniRef90_A0A022NZV4,Pseudomonas aeruginosa,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas aeruginosa group,Chemotaxis/Flagellar rotation
+./Clusters_in_csv/flavohemoprotein.csv,400,Cluster: Flavohemoprotein,https://www.uniprot.org/uniref/UniRef90_A0A060VJ67,Klebsiella pneumoniae,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Enterobacterales > Enterobacteriaceae > Klebsiella/Raoultella group > Klebsiella,Oxidoreductase
+./Clusters_in_csv/general_stress_protein_A.csv,521,Cluster: General stress protein A,https://www.uniprot.org/uniref/UniRef90_A0A037Y4K5,Escherichia Coli,,n/a
+./Clusters_in_csv/heatshock_prot_hsp20.csv,75,Cluster: Heat-shock protein Hsp20,https://www.uniprot.org/uniref/UniRef90_A0A011UMR0,Brucella abortus bv. 5 str. B3196,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Alphaproteobacteria > Hyphomicrobiales > Brucellaceae > Brucella/Ochrobactrum group > Brucella > Brucella abortus > Brucella abortus bv. 5,n/a
+./Clusters_in_csv/helicase.csv,128,Cluster: Helicase,https://www.uniprot.org/uniref/UniRef90_A0A022LF30,Curtobacterium sp. VKM Ac-1393,,n/a
+./Clusters_in_csv/histidine_kinase.csv,903,Cluster: Histidine kinase,https://www.uniprot.org/uniref/UniRef50_A0A024CA35,Helicobacter pylori Hp P-16,cellular organisms > Bacteria (eubacteria) > Proteobacteria > delta/epsilon subdivisions > Epsilonproteobacteria > Campylobacterales > Helicobacteraceae > Helicobacter > Helicobacter pylori,n/a
+./Clusters_in_csv/integrase_core_domain_protein.csv,507,Cluster: Integrase core domain protein,https://www.uniprot.org/uniref/UniRef90_A0A062MY26,Acinetobacter baumannii,,n/a
+./Clusters_in_csv/metallophophatase.csv,86,Cluster: Metallophosphatase,https://www.uniprot.org/uniref/UniRef90_A0A022LLI0,Curtobacterium flaccumfaciens,,n/a
+./Clusters_in_csv/mfs_transporter.csv,168,Cluster: MFS transporter,https://www.uniprot.org/uniref/UniRef90_A0A010T178,Pseudomonas mandelii,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas fluorescens group (fluorescent pseudomonads),n/a
+./Clusters_in_csv/minor_tail_protein_G.csv,1098,Cluster: Minor tail protein G,https://www.uniprot.org/uniref/UniRef50_A0A023KLD7,Escherichia coli O157:H7,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Enterobacterales > Enterobacteriaceae > Escherichia > Escherichia coli,n/a
+./Clusters_in_csv/mutator_family_transposase.csv,389,Cluster: Mutator family transposase,https://www.uniprot.org/uniref/UniRef90_A0A014FKT4,Acinetobacter baumannii,,n/a
+./Clusters_in_csv/mycotione_reductase.csv,769,Cluster: Mycothione reductase,https://www.uniprot.org/uniref/UniRef50_A0A031HXE5,Leucobacter sp. NB 10,,n/a
+./Clusters_in_csv/outer_membrane_protein.csv,350,Cluster: Outer membrane protein,https://www.uniprot.org/uniref/UniRef90_A0A024E8H6,unclassified Pseudomonas,,n/a
+./Clusters_in_csv/phosphotriesterase.csv,371,Cluster: Phosphotriesterase,https://www.uniprot.org/uniref/UniRef90_A0A024L284,Escherichia coli,,n/a
+./Clusters_in_csv/pressure_regulated_protein.csv,717,Cluster: Pressure-regulated protein,https://www.uniprot.org/uniref/UniRef50_A0A010TCE1,Pseudomonas sp. SJZ079,,n/a
+./Clusters_in_csv/protein_CreA.csv,816,Cluster: Protein CreA,https://www.uniprot.org/uniref/UniRef50_A0A024HNC9,Pseudomonas savastanoi pv. glycinea (Pseudomonas syringae pv. glycinea),cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas syringae group > Pseudomonas syringae group genomosp. 2 > Pseudomonas savastanoi,n/a
+./Clusters_in_csv/protein_pb1_f2.csv,159,Cluster: Protein PB1-F2,https://www.uniprot.org/uniref/UniRef90_A0A023PTM3,Influenza A virus (A/chicken/Bangladesh/5209/2009(H9N2)),Viruses > Riboviria > Orthornavirae > Negarnaviricota > Polyploviricotina > Insthoviricetes > Articulavirales > Orthomyxoviridae > Alphainfluenzavirus > Influenza A virus > H9N2 subtype,n/a
+./Clusters_in_csv/putative_mobilization_protein.csv,789,Cluster: Putative mobilization protein,https://www.uniprot.org/uniref/UniRef50_A0A016BQD2,Bacteroides fragilis,cellular organisms > Bacteria (eubacteria) > FCB group > Bacteroidetes/Chlorobi group > Bacteroidetes > Bacteroidia > Bacteroidales > Bacteroidaceae > Bacteroides,n/a
+./Clusters_in_csv/putative_sperm_activating_peptide.csv,164,Cluster: Putative sperm-activating peptide,https://www.uniprot.org/uniref/UniRef90_A0A013SC14,Acinetobacter baumannii,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Moraxellales > Moraxellaceae > Acinetobacter > Acinetobacter calcoaceticus/baumannii complex,n/a
+./Clusters_in_csv/pyruvate_carboxylase.csv,258,Cluster: Pyruvate carboxylase,https://www.uniprot.org/uniref/UniRef90_A0A023XQQ3,Bradyrhizobium rifense,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Alphaproteobacteria > Hyphomicrobiales > Bradyrhizobiaceae > Bradyrhizobium,Ligase/transferase
+./Clusters_in_csv/quinolinase_synthase.csv,196,Cluster: Quinolinate synthase,https://www.uniprot.org/uniref/UniRef90_A0A009FP77,Acinetobacter towneri DSM 14962 = CIP 107472,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Moraxellales > Moraxellaceae > Acinetobacter > Acinetobacter towneri,transferase
+./Clusters_in_csv/ribokinase.csv,473,Cluster: Ribokinase,https://www.uniprot.org/uniref/UniRef90_A0A067HQX2,Escherichia coli,,n/a
+./Clusters_in_csv/ribonucleoside_diphosphate_reductase.csv,331,Cluster: Ribonucleoside-diphosphate reductase,https://www.uniprot.org/uniref/UniRef90_A0A024HF91,Pseudomonas aeruginosa,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Pseudomonadales > Pseudomonadaceae > Pseudomonas > Pseudomonas aeruginosa group,allosteric enzyme
+./Clusters_in_csv/sensor_protein_QseC.csv,709,Cluster: Sensor protein QseC,https://www.uniprot.org/uniref/UniRef50_A0A069AWE5,Paraburkholderia sartisoli,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Betaproteobacteria > Burkholderiales > Burkholderiaceae > Paraburkholderia,Kinase/transferase
+./Clusters_in_csv/tape_measure_protein.csv,104,Cluster: Tape measure protein,https://www.uniprot.org/uniref/UniRef90_A0A023W606,Mycobacterium phage JoongJeon,Viruses > Duplodnaviria > Heunggongvirae > Uroviricota > Caudoviricetes > Caudovirales > Siphoviridae (phages with long non-contractile tails) > Fromanvirus > Mycobacterium virus Peaches,n/a
+./Clusters_in_csv/thiazole_synthase.csv,98,Cluster: Thiazole synthase,https://www.uniprot.org/uniref/UniRef90_A0A014LH77,Streptomyces iranensis,cellular organisms > Bacteria (eubacteria) > Terrabacteria group > Actinobacteria > Actinomycetia (high G+C Gram-positive bacteria) > Streptomycetales > Streptomycetaceae > Streptomyces > Streptomyces violaceusniger group,transferase
+./Clusters_in_csv/transketolase.csv,537,Cluster: Transketolase,https://www.uniprot.org/uniref/UniRef90_A0A060VG22,Salmonella enterica,,n/a
+./Clusters_in_csv/xylulose_kinase.csv,1124,Cluster: Xylulose kinase,https://www.uniprot.org/uniref/UniRef50_A0A024L172,Pantoea sp. M_5,cellular organisms > Bacteria (eubacteria) > Proteobacteria > Gammaproteobacteria > Enterobacterales > Erwiniaceae > Pantoea > unclassified Pantoea,Kinase, transferase
+./Clusters_in_csv/adenylosuccinate_lyase.csv,499,Cluster: Adenylosuccinate lyase,https://www.uniprot.org/uniref/UniRef90_A0A011VKV2,Mesorhizobium silamurunense,,n/a
+./Clusters_in_csv/absortion.csv,81,Absortion,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/absorption.txt,,,
+./Clusters_in_csv/enantioselectivity.csv,152,Enantioselectivity,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/enantioselectivity.txt,,,
+./Clusters_in_csv/localization.txt,254,Localization,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/localization.txt,,,
+./Clusters_in_csv/small_uniprot.csv,1000,Small_uniprot,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/small_uniprot.txt,,,
+./Clusters_in_csv/T50.csv,261,T50,https://github.com/fhalab/embeddings_reproduction/blob/master/inputs/T50.txt,,,
+./Clusters_in_csv/,,,,,,
+./Clusters_in_csv/,,,,,,
+./Clusters_in_csv/,,,,,,
