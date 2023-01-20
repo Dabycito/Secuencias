@@ -1,0 +1,7 @@
+,id_seq1,target_seq1,id_seq2,target_seq2,distance
+113,sequence_53082,55.0,sequence_19403,50.9,0.98828125
+52,sequence_53082,55.0,sequence_19405,48.7,0.982421875
+99,sequence_53082,55.0,sequence_19515,50.4,0.98046875
+373,sequence_19402,43.0,sequence_19403,50.9,0.97265625
+312,sequence_19402,43.0,sequence_19405,48.7,0.986328125
+359,sequence_19402,43.0,sequence_19515,50.4,0.97265625
